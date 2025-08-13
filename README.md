@@ -43,7 +43,11 @@ Time Measurement: Useful for performance benchmarking.
 Output Not Saved: Compressed data is not written to disk or merged into a final file.
 No Decompression Support: This is compression-only with no reverse operation implemented.
 No Format Handling: Doesn’t generate .gz or .zip file formats — raw compression only.
-File Must Exist: No check or fallback if the file is missing or unreadable
+File Must Exist: No check or fallback if the file is missing or unreadable.
+
+
+OUTPUT:-
+![Image](https://github.com/user-attachments/assets/489adf51-33c7-408b-b836-af5e48a0e069)
 
 
 
